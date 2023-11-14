@@ -4,6 +4,10 @@
     {
       "name": "Install Dependencies",
       "command": "npm install"
+    },
+    {
+      "name": "Install NX globally",
+      "command": "npm i -g nx"
     }
   ],
 
